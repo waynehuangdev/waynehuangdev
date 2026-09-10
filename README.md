@@ -2,7 +2,9 @@
 
 **I automate the job nobody wanted to hire for.**
 
-Ten years writing software, most recently on AI agents and agentic workflows. I build internal tools, document search, and integrations for companies too small to hire someone in-house — usually the process that's currently running on copy-paste and one person's patience.
+Twelve years building software — five at Epic on healthcare records, seven at Google across YouTube, Research, and Workspace. Most recently on AI agents and agentic workflows.
+
+I build internal tools, document search, and integrations for companies too small to hire someone in-house — usually the process that's currently running on copy-paste and one person's patience.
 
 [waynehuang.dev](https://waynehuang.dev) · [wayne@waynehuang.dev](mailto:wayne@waynehuang.dev)
 
