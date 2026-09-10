@@ -2,7 +2,7 @@
 
 **I automate the job nobody wanted to hire for.**
 
-Twelve years building software — five at Epic on healthcare records, seven at Google across YouTube, Research, and Workspace. Most recently on AI agents and agentic workflows.
+Twelve years building software, five of them at Epic on healthcare records at scale. Most recently on AI agents and agentic workflows.
 
 I build internal tools, document search, and integrations for companies too small to hire someone in-house — usually the process that's currently running on copy-paste and one person's patience.
 
